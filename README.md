@@ -10,7 +10,7 @@ Key Features:
 
 * It provides clear and user-friendly notifications to alert users of the test completion and the obtained speed results. This ensures that users can easily interpret and act upon the information provided by the speed test.
 
-*This is an open-source project, inviting collaboration and contributions from the developer community. Join the project on GitHub to contribute, report issues, or suggest enhancements to make PySpeedTester an even more robust and versatile tool.
+* This is an open-source project, inviting collaboration and contributions from the developer community. Join the project on GitHub to contribute, report issues, or suggest enhancements to make PySpeedTester an even more robust and versatile tool.
 
 Measure and optimize your internet speed with this project. Download the project, explore the code, and contribute to the GitHub repository to be part of a community dedicated to ensuring a seamless internet experience for users worldwide.
 
